@@ -14,6 +14,10 @@
 | Journal | IEEE Journal of Oceanic Engineering |
 | Date    | May 2020 |
 
+### Demo full simulator
+
+![alt text](sas_simulator_demo.gif "Demo of full simulator")
+
 ### Files
 |    |    |
 |----|----|
